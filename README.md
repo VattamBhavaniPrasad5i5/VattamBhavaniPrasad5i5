@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 ![Profile views](https://gpvc.arturio.dev/VattamBhavaniPrasad5i5VattamBhavaniPrasad5i5)
 
 
-[![Views](https://github-readme-stats.vercel.app/api?username=VattamBhavaniPrasad5i5a&show_icons=true)
+[![Views](https://github-readme-stats.vercel.app/api?username=VattamBhavaniPrasad5i5&show_icons=true)
