@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VattamBhavaniPrasad5i5
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning student at GMR Institute Of Technology,pursuing my BTech Degree
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently learning ... Data Science
+- 🌱 I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degreee
+- 💻 Areas of Intrested domaians Machine Learning, Deep Learning, Computer Vision
+- 💞️ How to reach me:prasadvattam1206@gmail.com
+- ✌ Pronouns: ...He/Him
 
 <!---
 VattamBhavaniPrasad5i5/VattamBhavaniPrasad5i5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
