@@ -2,7 +2,7 @@
 - 👀 I’m currently learning ... Data Science
 - 🌱 I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degreee
 - 💻 Areas of Intrested domaians Machine Learning, Deep Learning, Computer Vision
-- 💞️ How to reach me:prasadvattam1206@gmail.com
+- 💞️ How to reach me: prasadvattam1206@gmail.com
 - ✌ Pronouns: ...He/Him
 
 <!---
