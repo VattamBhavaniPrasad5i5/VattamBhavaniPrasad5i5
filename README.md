@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VattamBhavaniPrasad5i5&label=Profile%20views&color=0e75b6&style=flat" alt="VattamBhavaniPrasad5i5" /> </p>
 
 - 👋 Hi, I’m @VattamBhavaniPrasad5i5
-- 👀 I’m currently learning ... Data Science
-- 🌱 I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degreee
+
 - 💻 Areas of Intrested domaians Machine Learning, Deep Learning, Computer Vision
 - 💞️ How to reach me: prasadvattam1206@gmail.com
 - ✌ Pronouns: ...He/Him
